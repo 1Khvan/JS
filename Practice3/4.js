@@ -40,5 +40,5 @@ console.log(`Разница чисел равна ${dif()}`);
 const mul = () => firstNumber * secondNumber;
 console.log(`Умножение чисел равна ${mul()}`);
 
-const div = () => getMax() % getMin();
+const div = () => getMax() / getMin();
 console.log(`Деление чисел равна ${div()}`);
