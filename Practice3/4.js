@@ -34,7 +34,6 @@ const sum = () => firstNumber + secondNumber;
 console.log(`Сумма чисел равна ${sum()}`);
 
 const dif = () => getMax() - getMin();
-
 console.log(`Разница чисел равна ${dif()}`);
 
 const mul = () => firstNumber * secondNumber;
